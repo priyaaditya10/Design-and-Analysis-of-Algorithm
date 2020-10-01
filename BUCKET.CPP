@@ -67,7 +67,7 @@ void main()
 		int size;
 		float array[10];
 
-		cout<<"Size: ";
+		cout<<" Enter array size: ";
 		cin>>size;
 
 		cout<<"Array (of size "<<size<<"): \n";

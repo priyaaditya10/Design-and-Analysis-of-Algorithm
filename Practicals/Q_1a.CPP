@@ -12,7 +12,8 @@ void display(int *a, int size) {
 
 int insertionSort(int *a, int n)
 {
-  int i, j, k, comperision = 0;
+  int i, j, k;
+  int comperision = 0;
   for(i=1; i<n; i++)
   {
     comperision++;
